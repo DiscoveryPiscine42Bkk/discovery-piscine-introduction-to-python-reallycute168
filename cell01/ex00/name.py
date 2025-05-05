@@ -1,3 +1,3 @@
-first_name = "tak"
-last_name = "kub"
-print(first_name ,last_name)
+first_name = "Phachthanasorn"
+last_name = "Peerawatkul"
+print(first_name ,last_name,"\n")
