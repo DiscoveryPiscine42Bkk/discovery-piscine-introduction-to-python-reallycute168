@@ -6,4 +6,3 @@ print(f'{num1} + {num2} = {num1 + num2}')
 print(f'{num1} - {num2} = {num1 - num2}')
 print(f'{num1} / {num2} = {num1 / num2}')
 print(f'{num1} * {num2} = {num1 * num2}')
-"""เช็คอีกทีด้วยว่า การหารให้กี่ตำแหน่ง"""
